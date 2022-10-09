@@ -1,0 +1,472 @@
+@media all and (max-width: 1200px) {
+  .navbar__list {
+    width: 37%;
+  }
+
+  .header__image {
+    margin-left: 4%;
+  }
+
+  .header__title {
+    font-size: 51px;
+  }
+
+  .header__input {
+    width: 20%;
+  }
+
+  .header__input_btn {
+    width: 12%;
+  }
+
+  #header__image {
+    margin-left: 5%;
+  }
+
+  #footer__image {
+    width: 86%;
+  }
+
+  #footer__image2 {
+    width: 86%;
+  }
+
+  .services__title_main {
+    font-size: 48px;
+    color: #35414b;
+  }
+
+  .app__image {
+    width: 13%;
+  }
+}
+
+@media all and (max-width: 1150px) {
+  .header__title {
+    font-size: 45px;
+  }
+
+  footer {
+    width: 107%;
+  }
+
+  .main__image {
+    width: 60%;
+  }
+
+  .workblock__image {
+    width: 66%;
+  }
+
+  .navbar__list {
+    width: 39%;
+  }
+
+  .header__input_btn {
+    width: 12%;
+  }
+
+  .services__title_main {
+    font-size: 42px;
+  }
+
+  .belly__title {
+    font-size: 33px;
+  }
+}
+
+@media all and (max-width: 1000px) {
+  .header__title {
+    font-size: 40px;
+  }
+
+  .header__image {
+    margin-left: -3%;
+  }
+
+  .header__input {
+    width: 25%;
+  }
+
+  .services__title_main {
+    font-size: 38px;
+  }
+
+  .app__image {
+    width: 17%;
+  }
+}
+
+@media all and (max-width: 950px) {
+  .main__image {
+    width: 58%;
+  }
+
+  .header__image {
+    margin-left: -7%;
+  }
+
+  .navbar__list {
+    width: 43%;
+  }
+}
+
+@media all and (max-width: 850px) {
+  .navbar {
+    width: 118%;
+  }
+
+  .header__input {
+    width: 29%;
+  }
+
+  .header__input_btn {
+    width: 17%;
+  }
+
+  .header__title {
+    font-size: 35px;
+    margin-left: 33%;
+  }
+
+  .header__desc {
+    margin-left: 31%;
+  }
+
+  .footer__services {
+    width: 106%;
+  }
+
+  .app__image {
+    width: 15%;
+  }
+
+  .services__list {
+    width: 122%;
+  }
+
+  .main {
+    width: 113%;
+  }
+
+  .main__image {
+    width: 60%;
+  }
+
+  .workblock {
+    width: 116%;
+  }
+
+  footer {
+    width: 116%;
+  }
+
+  .stocks {
+    margin-left: 19%;
+  }
+}
+
+@media all and (max-width: 768px) {
+  .header__image {
+    margin-left: 2%;
+    width: 112%;
+  }
+
+  .teams__icon {
+    width: 122%;
+  }
+
+  .header__teams {
+    margin-left: 23%;
+  }
+
+  .app__image {
+    width: 15%;
+    margin-right: -6%;
+  }
+}
+
+@media all and (max-width: 700px) {
+  .app {
+    width: 119%;
+  }
+}
+
+@media all and (max-width: 650px) {
+  .navbar__item {
+    display: none;
+  }
+
+  .navbar__btn_burger {
+    margin-right: 25%;
+  }
+
+  #login1 {
+    display: none;
+  }
+
+  #navbar__btn {
+    display: none;
+  }
+
+  .navbar__btn_burger {
+    display: inline;
+    width: 4%;
+  }
+
+  .menu {
+    display: block;
+    margin-left: -18%;
+    margin-top: 10%;
+    width: 4%;
+    font-size: 12px;
+  }
+
+  footer {
+    width: 127%;
+  }
+
+  .main {
+    flex-direction: column;
+    margin-left: 12%;
+  }
+
+  .main__image {
+    width: 98%;
+  }
+
+  .main__div {
+    text-align: center;
+  }
+
+  .main__item_home {
+    border: none;
+    border-bottom: 8px solid #794cff;
+  }
+
+  .services {
+    margin-left: 21%;
+  }
+
+  .workblock {
+    width: 139%;
+  }
+
+  .belly {
+    width: 147%;
+  }
+
+  .header__image {
+    margin-left: 6%;
+    width: 118%;
+  }
+}
+
+@media all and (max-width: 425px) {
+  .main {
+    flex-direction: column;
+    margin-left: -10%;
+  }
+
+  .navbar__btn_burger {
+    width: 6%;
+    margin-right: 21%;
+  }
+
+  .header__input {
+    width: 56%;
+  }
+
+  .header__input_btn {
+    width: 63%;
+    display: block;
+    margin-left: 35%;
+  }
+
+  .main {
+    flex-direction: column;
+    margin-left: -10%;
+  }
+
+  .header__teams {
+    margin-left: 23%;
+  }
+
+  .teams__icon {
+    width: 138%;
+  }
+
+  .services {
+    margin-left: 2%;
+  }
+
+  .services__list {
+    width: 122%;
+    flex-direction: column;
+    margin-left: 85%;
+    font-size: 26px;
+  }
+
+  .workblock {
+    width: 91%;
+    flex-direction: column-reverse;
+  }
+
+  .workblock {
+    width: 97%;
+    flex-direction: column-reverse;
+  }
+
+  .workblock__btn {
+    width: 100%;
+  }
+
+  .workblock__image {
+    width: 104%;
+  }
+
+  .app {
+    padding: 1%;
+    width: 98%;
+  }
+  .app__image {
+    width: 33%;
+    margin-right: -6%;
+    display: block;
+    margin: auto;
+    margin-top: 3%;
+  }
+
+  #header__stocks1 {
+    display: none;
+  }
+
+  .header__teams {
+    margin-left: 5%;
+  }
+
+  .header__image {
+    margin-left: -8%;
+    width: 115%;
+  }
+
+  .header__title {
+    font-size: 35px;
+    margin-left: 25%;
+  }
+
+  .header__desc {
+    margin-left: 24%;
+  }
+
+  .header__input {
+    width: 56%;
+    margin-left: 22%;
+  }
+
+  .header__input_btn {
+    width: 63%;
+    display: block;
+    margin-left: 22%;
+  }
+
+  #header__stocks2 {
+    margin-left: -25%;
+  }
+
+  .services__item:nth-child(4),
+  .services__item:nth-child(5),
+  .services__item:nth-child(6) {
+    display: none;
+  }
+
+  .services__btn {
+    display: block;
+  }
+
+  .belly__title {
+    font-size: 26px;
+  }
+
+  .belly__item:nth-child(2),
+  .belly__item:nth-child(3) {
+    display: none;
+  }
+
+  #belly_home {
+    border: none;
+    width: 32%;
+  }
+
+  .belly {
+    width: 101%;
+  }
+
+  .footer__end {
+    display: none;
+  }
+
+  .footer__services {
+    width: 33%;
+    flex-direction: column;
+    margin-right: 64%;
+  }
+
+  .footer__icons2 {
+    display: none;
+  }
+
+  .footer__title::after {
+    content: " ˅";
+  }
+}
+
+@media all and (max-width: 375px) {
+  .teams__icon {
+    width: 110%;
+    flex-direction: column;
+    line-height: 3;
+  }
+}
+
+@media all and (max-width: 320px) {
+  .header__title {
+    font-size: 29px;
+  }
+
+  #header__stocks2 {
+    font-size: 12px;
+  }
+
+  .header__teams {
+    font-size: 11px;
+  }
+
+  .services__title_main {
+    font-size: 25px;
+  }
+
+  .services__list {
+    font-size: 15px;
+  }
+
+  h2.workblock__title {
+    font-size: 27px;
+  }
+
+  .belly__title {
+    font-size: 26px;
+  }
+
+  .app__title {
+    font-size: 25px;
+  }
+
+  .header__input {
+    width: 63%;
+  }
+
+  .header__input_btn {
+    width: 72%;
+  }
+}
